@@ -10,6 +10,8 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamfauzi16" alt="iamfauzi16" /></a> </p> -->
 
 - ⚡ Fun fact **I am Funny**
+- 📷 Fun fact **I am happy a photoshoot**
+- 😀 Description ** Curious, Technology, Sport **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
