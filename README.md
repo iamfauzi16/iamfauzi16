@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzi</h1>
-<h3 align="center">A passionate frontend developer & UI Design from Indonesia</h3>
+<h3 align="center">I'm Creator Softwaremaju</h3>
 
 
 <p align="center"> <img src="https://scontent.fcgk6-2.fna.fbcdn.net/v/t1.6435-9/s720x720/240973441_4500799463320570_9147957743689129271_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGB4E4Ec0l3jnx0GZk55whtImlPXUFEvkIiaU9dQUS-QsfxQeM68sVkdemXciue99J4bncEZQxtnJwxv3hUFdTg&_nc_ohc=3YQYuels0tYAX-KggR7&_nc_ht=scontent.fcgk6-2.fna&oh=41e9e0e4eecfcddfd6655c0e3eeda3dc&oe=6155ED91"  alt="iamfauzi16" /> </p>
